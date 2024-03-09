@@ -1,0 +1,6 @@
+name: euler
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - numpy
